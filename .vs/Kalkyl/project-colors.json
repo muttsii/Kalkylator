@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "91b95aad-52f4-4b1a-b398-c6240cbde0bf": {
+      "ProjectGuid": "91b95aad-52f4-4b1a-b398-c6240cbde0bf",
+      "DisplayName": "Kalkyl",
+      "ColorIndex": 0
+    },
+    "212b5e32-98be-4ad8-bd4f-df1a4e329019": {
+      "ProjectGuid": "212b5e32-98be-4ad8-bd4f-df1a4e329019",
+      "DisplayName": "operations",
+      "ColorIndex": 1
+    },
+    "c7435367-5dc2-43e3-9ef3-90adafd8edff": {
+      "ProjectGuid": "c7435367-5dc2-43e3-9ef3-90adafd8edff",
+      "DisplayName": "ClassLib",
+      "ColorIndex": 2
+    },
+    "afc7ab20-ed34-4579-a4a8-0d0077ac6054": {
+      "ProjectGuid": "afc7ab20-ed34-4579-a4a8-0d0077ac6054",
+      "DisplayName": "Tests",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
